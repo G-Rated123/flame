@@ -10,9 +10,13 @@ Check that the image shows up and fits inside the card.
 
 INVESTIGATE:
 - What does max-width do?
+      Changes how wide the object is
 - What’s the difference between margin and padding?
+      padding changes how close it is to the edges whilst 
+      margin changes how close the lines are to eachother
 - What are the . and # doing?
-
+      . is to make sure that the shapes and image style are working
+      and # is to make sure that the text styles work
 MODIFY:
 - Round the image corners more
 - Add a drop shadow
