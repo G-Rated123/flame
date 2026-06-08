@@ -12,16 +12,10 @@ What did you see? Were you right or wrong?
 
 INVESTIGATE:
 - What does max-width do?
-<<<<<<< HEAD
       Changes how wide the object is
 - What’s the difference between margin and padding?
       padding changes how close it is to the edges whilst 
       margin changes how close the lines are to eachother
-=======
-
-- What’s the difference between margin and padding?
-
->>>>>>> 92a09d7dd87ad38f174a02140f2d9306fa40c2be
 - What are the . and # doing?
       . is to make sure that the shapes and image style are working
       and # is to make sure that the text styles work
