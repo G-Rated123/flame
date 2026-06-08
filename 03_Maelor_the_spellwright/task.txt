@@ -1,19 +1,27 @@
 🟧 PRIMM: Style Your Candidate
 
 PREDICT:
+Before opening the page. Read the code and answer below:
 What will the page look like? Where will it appear?
      There will be a red heading and a profile card that's yellow with red outline
      there will be an image as well
 
 RUN:
 Check that the image shows up and fits inside the card.
+What did you see? Were you right or wrong?
 
 INVESTIGATE:
 - What does max-width do?
+<<<<<<< HEAD
       Changes how wide the object is
 - What’s the difference between margin and padding?
       padding changes how close it is to the edges whilst 
       margin changes how close the lines are to eachother
+=======
+
+- What’s the difference between margin and padding?
+
+>>>>>>> 92a09d7dd87ad38f174a02140f2d9306fa40c2be
 - What are the . and # doing?
       . is to make sure that the shapes and image style are working
       and # is to make sure that the text styles work
